@@ -1,4 +1,4 @@
-# Tech Writing - Research Log 9 30 to 10 4
+# Tech Writing - Research Log 9/30 to 10/4
 
 Describe your own initial understandings and assumptions about "technical writing" as you start the course. How do your initial understandings/assumptions align (or not) with the work we have done so far?
 I knew that technical writing had to do with instructions and coding. So far the work we've done sort of aligns with these understandings.
