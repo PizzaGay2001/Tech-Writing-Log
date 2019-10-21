@@ -1,3 +1,5 @@
+# Tech Writing - Research Log 10-7 to 10-11
+
 What is a zine? Where do they come from? What’s their history as a genre of writing?
 A zine is an independently-made 'mini-magazine' that usually contains original content. When published, they have a small amount of circulation. The genre had ancestors (including Thomas Paine's "Common Sense)"), but didn't really become a thing until the late 1920's, with science fiction fanzines. They later expanded into other genres, including 'perzines,' which are about the authors themselves. In the 60's, Lisa Ben and Jim Kepner were two of the 'Zinesters' who started out in science fiction, before making Zines about the gay rights movement.
 
